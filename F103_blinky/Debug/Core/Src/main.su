@@ -1,0 +1,7 @@
+../Core/Src/main.c:85:5:main	8	static
+../Core/Src/main.c:131:6:SystemClock_Config	72	static
+../Core/Src/main.c:166:6:state_machine_init	4	static
+../Core/Src/main.c:175:6:state_a_function	112	static
+../Core/Src/main.c:194:6:state_b_function	112	static
+../Core/Src/main.c:215:6:state_c_function	112	static
+../Core/Src/main.c:238:6:Error_Handler	4	static,ignoring_inline_asm
